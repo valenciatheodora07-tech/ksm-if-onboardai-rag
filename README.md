@@ -19,7 +19,6 @@ AI-powered Retrieval-Augmented Generation (RAG) onboarding assistant for new mem
 - [Setup & Installation](#-setup--installation)
 - [Playground Demo & Verification](#-playground-demo--verification)
 - [Future Development Roadmap](#-future-development-roadmap)
-- [Author](#-author)
 
 ---
 
@@ -62,7 +61,7 @@ A structured, AI-assisted onboarding system enables new members to adapt faster,
 
 The system is implemented in **Langflow (`v1.12.2`)** using a dual-pipeline RAG architecture backed by **DataStax Astra DB** and **Google Generative AI**.
 
-![KSM IF OnboardAI Langflow Canvas](docs/Main_Flow_Canvas.png)
+![KSM IF OnboardAI Langflow Canvas](images/Main_Flow_Canvas.png)
 
 ### Pipeline Overview
 
